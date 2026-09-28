@@ -6,6 +6,7 @@
 	"Pick Up": "รับรถ",
 	"Send": "ส่งรถ",
 	"Booking Status": "สถานะการจอง",
+	"Pending action request": "มีคำขอยกเลิก/ปฏิเสธรอดำเนินการ",
 	"Payment Status": "การชำระเงิน",
 	"Booking Refunded": "ทำรายการคืนเงินลูกค้าแล้ว",
 	"Pending Payment": "รอการชำระเงิน",
