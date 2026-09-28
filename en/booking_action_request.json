@@ -46,7 +46,7 @@
 	"requestNumber": "Request No.",
 	"bookingNumber": "Booking No.",
 	"car": "Car",
-	"customer": "Customer",
+	"customer": "Customer Name",
 	"bookingDates": "Pick Up/Return Dates",
 	"requestedAt": "Requested At",
 	"dealershipBranch": "Company/Branch",
