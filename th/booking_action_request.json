@@ -1,4 +1,12 @@
 {
+	"requestBookingAction": "ขอปฏิเสธ/ยกเลิก",
+	"selectRequestReasonTitle": "โปรดเลือกเหตุผลในการขอปฏิเสธ/ยกเลิก ({{step}}/2)",
+	"confirmCreateRequestTitle": "ยืนยันส่งคำขอ?",
+	"createRequestSuccess": "ส่งคำขอ {{number}} สำเร็จแล้ว",
+	"createRequestError": "ไม่สามารถยืนยันผลการส่งคำขอได้ กรุณาตรวจสอบคำขอล่าสุดก่อนลองอีกครั้ง",
+	"staffReasonCatalogError": "ไม่สามารถโหลดเหตุผลได้ กรุณาลองอีกครั้ง",
+	"reasonTextPlaceholder": "โปรดระบุ",
+	"bookingRequestRefreshError": "ยังตรวจสอบคำขอล่าสุดไม่ได้ กรุณาลองโหลดข้อมูลอีกครั้งก่อนทำรายการต่อ",
 	"approveRequest": "อนุมัติ",
 	"cancelRequest": "ยกเลิกคำขอ",
 	"confirmCancelRequestTitle": "ยกเลิกเลขที่คำขอ {{number}}",

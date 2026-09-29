@@ -1,4 +1,12 @@
 {
+	"requestBookingAction": "Request rejection/cancellation",
+	"selectRequestReasonTitle": "Select a reason for rejection/cancellation ({{step}}/2)",
+	"confirmCreateRequestTitle": "Confirm submitting this request?",
+	"createRequestSuccess": "Request {{number}} has been submitted.",
+	"createRequestError": "Unable to confirm the submission. Please check the latest request before trying again.",
+	"staffReasonCatalogError": "Unable to load reasons. Please try again.",
+	"reasonTextPlaceholder": "Please specify",
+	"bookingRequestRefreshError": "Unable to verify the latest request. Please reload the data before continuing.",
 	"approveRequest": "Approve",
 	"cancelRequest": "Cancel request",
 	"confirmCancelRequestTitle": "Cancel request {{number}}",
