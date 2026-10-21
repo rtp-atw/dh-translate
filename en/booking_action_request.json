@@ -44,6 +44,8 @@
 	"openStatus": "Open",
 	"cancelledStatus": "Canceled",
 	"searchPlaceholder": "Search bookings",
+	"reload": "Reload",
+	"lastUpdated": "Last updated {{date}}",
 	"sortBy": "Sort by",
 	"requestedAtAsc": "Requested date: oldest first",
 	"requestedAtDesc": "Requested date: newest first",

@@ -44,6 +44,8 @@
 	"openStatus": "Open",
 	"cancelledStatus": "Canceled",
 	"searchPlaceholder": "ค้นหาการจอง",
+	"reload": "รีโหลด",
+	"lastUpdated": "อัปเดตล่าสุด {{date}}",
 	"sortBy": "เรียงลำดับ",
 	"requestedAtAsc": "วันที่ขอ ก่อน-หลัง",
 	"requestedAtDesc": "วันที่ขอ หลัง-ก่อน",
