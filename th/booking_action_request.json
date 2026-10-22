@@ -45,6 +45,7 @@
 	"cancelledStatus": "Canceled",
 	"searchPlaceholder": "ค้นหาการจอง",
 	"reload": "รีโหลด",
+	"loadAll": "โหลดทั้งหมด",
 	"lastUpdated": "อัปเดตล่าสุด {{date}}",
 	"sortBy": "เรียงลำดับ",
 	"requestedAtAsc": "วันที่ขอ ก่อน-หลัง",

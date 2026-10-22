@@ -45,6 +45,7 @@
 	"cancelledStatus": "Canceled",
 	"searchPlaceholder": "Search bookings",
 	"reload": "Reload",
+	"loadAll": "Load all",
 	"lastUpdated": "Last updated {{date}}",
 	"sortBy": "Sort by",
 	"requestedAtAsc": "Requested date: oldest first",
